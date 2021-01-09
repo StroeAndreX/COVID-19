@@ -11,7 +11,7 @@ Applying software technology to know more about <a href="https://en.wikipedia.or
 <hr/> 
 
 For now the script only calculate the daily percentage of cases based on the number of tests in Italy. 
-With <b> CalculateGenoma.ipynb </b> you can find the size in Byte of the COVID. Calculated based on the gonome(You can download it <a href="https://www.ncbi.nlm.nih.gov/nuccore/NC_045512"> GenBank </a>) 
+With <b> CalculateGenoma.ipynb </b> you can find the size in Byte of the COVID. Calculated based on the gonome(You can download it on<a href="https://www.ncbi.nlm.nih.gov/nuccore/NC_045512"> GenBank</a>) 
 
 Now what's next with this funny project? 
 * Script getting data from repositories and not from local files. 
