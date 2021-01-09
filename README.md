@@ -10,10 +10,10 @@ Applying software technology to know more about <a href="https://en.wikipedia.or
 <h3> 💡 What next? </h3> 
 <hr/> 
 
-For now the script only calculate the daily percentage of cases based on the number of tests in Italy. 
+For now, the script only calculates the daily percentage of cases based on the number of tests in Italy. 
 With <b> CalculateGenoma.ipynb </b> you can find the size in Byte of the COVID. Calculated based on the gonome(You can download it on<a href="https://www.ncbi.nlm.nih.gov/nuccore/NC_045512"> GenBank</a>) 
 
-Now what's next with this funny project? 
+Now, what's next with this funny project? 
 * Script getting data from repositories and not from local files. 
 * Expanding the data calculation 
 * Calculating data of each country in the world 
@@ -21,6 +21,6 @@ Now what's next with this funny project?
 
 <h3> 💊 let's hack the Nature </h3> 
 
-The project is public. Contribuite by helping with your big brain and let's hack the nature. hehe
+The project is public. Contribute by helping with your big brain and let's hack nature. hehe
 
 -SA
