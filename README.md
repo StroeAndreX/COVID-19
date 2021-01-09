@@ -5,7 +5,7 @@ Studying COVID by Playing with codes!
 <h3>  💭 Background </h3> 
 <hr/> 
 
-Applying software technology to know more about covid-19 and biology. Internet isn't really providing a very clear view of how covid data works, so I decided to calculate it by myself. 
+Applying software technology to know more about <a href="https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2"> SARS-CoV-2 </a> and <a href="https://en.wikipedia.org/wiki/Bioinformatics"> BioInformatics </a>. Internet isn't really providing a very clear view of how covid data works, so I decided to calculate it by myself. 
 
 <h3> 💡 What next? </h3> 
 <hr/> 
