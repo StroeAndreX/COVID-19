@@ -19,7 +19,7 @@ Now, what's next with this funny project?
 * Calculating data of each country in the world 
 * <b> But most important: </b> Coding an AI that can predict the next data by using our actual data
 
-<h3> 💊 let's hack the Nature </h3> 
+<h3> 💊 Let's hack the Nature </h3> 
 
 The project is public. Contribute by helping with your big brain and let's hack nature. hehe
 
