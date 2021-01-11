@@ -22,7 +22,7 @@ if __name__ == "__main__":
     total_daily_cases = 0
     total_daily_tests = 0
 
-    # Open Each file in the foulder 
+    # Open Each file in the folder 
     for csv_file in os.listdir(file_with_covidCSV):
         covid_csv = os.path.join(os.path.dirname(file_with_covidCSV), csv_file)
         with open(covid_csv, newline='') as csvfile:
